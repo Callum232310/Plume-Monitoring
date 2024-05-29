@@ -34,18 +34,12 @@ Example video outputs are included in this repository and are as follows:
  
 
 # Code Quality and Contribution Guidelines
-The source code in this repository accompanies research conducted as part of Case Study 2: Splatter Severity Measurement. 
+The source code in this repository accompanies research conducted as part of Case Study 3: Plume Monitoring. 
 
-It is important to note that this project was initiated with a background in mechanical engineering rather than computer science or software engineering. 
+The code focuses on application of computer vision to the steel industry and is shared for collaboration and contribution purposes. 
 
-Therefore, the focus is on application of these technologies rather than in software engineering principles. 
+Every effort has been made to ensure quality and readability, however this may further improve over time.
 
-The code is shared for collaboration and contribution purposes, and whilst every effort has been made to ensure quality and readability, it may not adhere to all conventions of software development. 
+Feedback and contributions that enhance the functionality of the code are welcome.
 
-Feedback is welcome, with the understanding that the primary aim is to facilitate further research and application in the field, 
-rather than to serve as a benchmark for software engineering excellence. 
-
-# Publication
-
-A paper has been published on this work in the Journal of Intelligent Manufacturing Systems, and is available at: [https://doi.org/xxxxxx](https://doi.org/xxxxxx)
 
